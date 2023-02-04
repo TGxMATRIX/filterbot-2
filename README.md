@@ -77,5 +77,5 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## TELAGRAM SUPPORT 
 
-* [![Matrix BOTZ](https://img.shields.io/static/v1?label=MATRIX&message=BOTZ&color=critical)](https://t.me/MatRixBotzTGsupport)
+* [![Team AML](https://img.shields.io/static/v1?label=MATRIX&message=BOTZ&color=critical)](https://t.me/filesharebotusers)
 
