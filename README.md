@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=9401D8&width=380&lines=WELCOME+TO+%F0%9D%99%91%F0%9D%99%84%F0%9D%99%85%F0%9D%98%BC%F0%9D%99%94%F0%9D%99%8F%F0%9D%99%83%F0%9D%98%BC%F0%9D%99%87%F0%9D%98%BC%F0%9D%99%8B%F0%9D%98%BC%F0%9D%99%8F%F0%9D%99%83%F0%9D%99%94-%F0%9D%98%BD%F0%9D%99%8A%F0%9D%99%8F;A+SIMPLE+BOT+MAKER;CREATED+BY+TEAM+%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=100&pause=1000&color=9401D8&width=2000&height=250&lines=WELCOME+TO+%F0%9D%99%91%F0%9D%99%84%F0%9D%99%85%F0%9D%98%BC%F0%9D%99%94%F0%9D%99%8F%F0%9D%99%83%F0%9D%98%BC%F0%9D%99%87%F0%9D%98%BC%F0%9D%99%8B%F0%9D%98%BC%F0%9D%99%8F%F0%9D%99%83%F0%9D%99%94-%F0%9D%98%BD%F0%9D%99%8A%F0%9D%99%8F;A+SIMPLE+BOT+MAKER;CREATED+BY+TEAM+%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%9F)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://graph.org/file/c548df4d4a42a8646aa04.jpg" alt="MatRixBotz LOGO">
 </p>
