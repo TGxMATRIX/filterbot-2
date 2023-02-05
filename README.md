@@ -45,6 +45,11 @@
 * `P_TTI_SHOW_OFF` : Customize Result Buttons to Callback or Url by (True = url / False = callback)
 
 
+## Deploy to Heroku 
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alappu900/filterbot1)
+
+
 ## Commands
 ```
 start - check bot alive
