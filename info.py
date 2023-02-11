@@ -54,7 +54,7 @@ WELCOM_PIC = environ.get("WELCOM_PIC", "")
 WELCOM_TEXT = environ.get("WELCOM_TEXT", "ℍ𝕖𝕝𝕝𝕠 {user}\n𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕋𝕠 {chat}")
 PMFILTER = bool(environ.get("PMFILTER", True))
 G_FILTER = bool(environ.get("G_FILTER", True))
-BUTTON_LOCK = bool(environ.get("BUTTON_LOCK", True))
+BUTTON_LOCK = bool(environ.get("BUTTON_LOCK", False))
 
 #Auto approve 
 #In private group or channel must enable request admin approval 
