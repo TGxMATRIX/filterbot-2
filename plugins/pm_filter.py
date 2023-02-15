@@ -1,4 +1,4 @@
-import asyncio, re, ast, math, logging
+Whyimport asyncio, re, ast, math, logging
 from pyrogram.errors.exceptions.bad_request_400 import MediaEmpty, PhotoInvalidDimensions, WebpageMediaEmpty
 from Script import script
 import pyrogram
@@ -74,7 +74,7 @@ async def g_fil_mod(client, message):
           await m.edit("𝚄𝚂𝙴 :- /g_filter on 𝙾𝚁 /g_filter off")
 
 
-@Client.on_message((filters.group | filters.private) & filters.text & filters.incoming & filters.chat(AUTH_GROUPS) if AUTH_GROUPS else filters.text & filters.incoming & filters.group)
+@Client.on_message((filters.group | filters.private) & filters.text & filters.incoming & filters.chat(AUTH_GROUPS) if AUTH_GROUPS else filters.text & filters.incoming)
 async def give_filter(client, message):
     if G_FILTER:
         if G_MODE.get(str(message.chat.id)) == "False":
