@@ -4,8 +4,8 @@
     "logo": "https://graph.org/file/3def231c50570ba3cd2f7.jpg",
     "stack": "container",
     "keywords": ["telegram", "auto-filter"],
-    "website": "https://github.com/alappu900/filterbot1",
-    "repository": "https://github.com/alappu900/filterbot1",
+    "website": "https://github.com/alappu900/filterbot",
+    "repository": "https://github.com/alappu900/filterbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
